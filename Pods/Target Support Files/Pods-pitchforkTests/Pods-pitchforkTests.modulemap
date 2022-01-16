@@ -1,0 +1,6 @@
+framework module Pods_pitchforkTests {
+  umbrella header "Pods-pitchforkTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
